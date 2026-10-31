@@ -1,0 +1,6 @@
+{
+  "name": "EcoSense: Environmental Data Analytics Platform",
+  "description": "Unified environmental analytics platform tracking real-time air quality, carbon footprints, deforestation trends with linear regression, and public climate awareness from live APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
